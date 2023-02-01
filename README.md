@@ -2,16 +2,15 @@
 
 ## Description
 
-- My motivation for this project was to create a web aplication from scratch implementing html layout, css styles and javascript for user interation
-- This webpage is a Javascript quiz that has a 60 second timer and multiple choices with four questions
-- From this project, I learned how to add a timer on Javascript, and how to use query selectors and getElementbyID to link my html and css sheet and manipulate them through javascript
-- In addition, I used buttons to switch between screens with html and make them interactive
+- My motivation for this project was to create a workday calender that helps a user enter events for a 9-5 hour day and save the tasks each hour
+- This webpage includes a time block of 9Am-5Pm divided into hour intervals, and gets the current time from dayjs, which then shows the time that has passed, the present hour, and future hours
+- From this project, I learned how to link dayjs into my javascript file to get the current time and work with my html displays based ont he time
 
 ## Usage
 
-Link to Deployed Application: https://melanieislas.github.io/Javascript_Quiz/
+Link to Deployed Application: 
 
-The following screenshot shows the Work Day Scheduler with todays date (January 31, tuesday) at the top of the page and the first few hours of the day in gray (in the past).
+The following screenshot shows the Work Day Scheduler with todays date (Tuesday, January 31) at the top of the page and the first few hours of the day in gray (in the past).
 
 ![WorkDayScheduler](https://user-images.githubusercontent.com/120453099/215929729-1ade5dae-1dc6-4103-a50e-5b5e92a11466.png)
 
