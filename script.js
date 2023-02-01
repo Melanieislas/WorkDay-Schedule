@@ -1,8 +1,7 @@
 
 $(function () {
 
-  $(document).ready(function(event){
-    event.preventDefault();
+  $(document).ready(function(){
     $(".saveBtn").on("click", function() {
       localStorage.setItem($(this).prop("id"), $(this).prev().val());
       console.log(localStorage.getItem($(this).prop("id")));
