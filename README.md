@@ -4,7 +4,7 @@
 
 - My motivation for this project was to create a workday calender that helps a user enter events for a 9-5 hour day and save the tasks each hour
 - This webpage includes a time block of 9Am-5Pm divided into hour intervals, and gets the current time from dayjs, which then shows the time that has passed, the present hour, and future hours
-- From this project, I learned how to link dayjs into my javascript file to get the current time and work with my html displays based ont he time
+- From this project, I learned how to link dayjs into my javascript file to get the current time and work with my html displays based on the time
 
 ## Usage
 
