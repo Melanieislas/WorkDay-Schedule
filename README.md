@@ -8,7 +8,7 @@
 
 ## Usage
 
-Link to Deployed Application: 
+Link to Deployed Application: https://melanieislas.github.io/WorkDay-Schedule/
 
 The following screenshot shows the Work Day Scheduler with todays date (Tuesday, January 31) at the top of the page and the first few hours of the day in gray (in the past).
 
@@ -21,5 +21,4 @@ For this repository, I used the MIT License.
 
 ## Features
 
-This project includes 4 multiple choice questions with a timer of 60 seconds to complete. Once the 60 seconds pass, or the quiz is completed, the timer stops. In addition to this, you can check the high score scoreboard by clicking the high score button at the top in the nav bar. 
-
+This project is a daily planner with the current weekday, day, and year displayed at the top of the page. The planner is separated in hour intervals from 9AM-5PM and is color coded for past, present, and future. 
